@@ -1,7 +1,8 @@
-# sait-Angular
+# App-Angular
+
 ### basis for the Angular project 
 
-online store application with product cards, adding to cart, registration form, etc.
+online store application with product cards, adding to cart, registration form, product search, etc.
 
 - Install the dependencies
 
